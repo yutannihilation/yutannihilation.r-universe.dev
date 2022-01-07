@@ -1,0 +1,14 @@
+[
+  {
+    "package": "string2path",
+    "url": "https://github.com/yutannihilation/string2path"
+  },
+  {
+    "package": "gghighlight",
+    "url": "https://github.com/yutannihilation/gghighlight"
+  },
+  {
+    "package": "cutnumberint",
+    "url": "https://github.com/yutannihilation/cutnumberint"
+  },
+]
