@@ -14,5 +14,9 @@
   {
     "package": "cutnumberint",
     "url": "https://github.com/yutannihilation/cutnumberint"
-  }
+  },
+  {
+    "package": "savvy",
+    "url": "https://github.com/yutannihilation/savvy-helper-R-package"
+  }  
 ]
