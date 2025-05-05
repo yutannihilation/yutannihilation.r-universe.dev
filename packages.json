@@ -16,10 +16,6 @@
     "url": "https://github.com/yutannihilation/savvy-helper-R-package"
   },
   {
-    "package": "winitRPackage",
-    "url": "https://github.com/yutannihilation/winitRPackage"
-  },
-  {
     "package": "vellogd",
     "url": "https://github.com/yutannihilation/vellogd-r"
   }
