@@ -18,5 +18,9 @@
   {
     "package": "vellogd",
     "url": "https://github.com/yutannihilation/vellogd-r"
+  },
+  {
+    "package": "b64",
+    "url": "https://github.com/yutannihilation/b64"
   }
 ]
