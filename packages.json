@@ -19,9 +19,5 @@
     "package": "savvyExamples",
     "url": "https://github.com/yutannihilation/savvy",
     "subdir": "R-package"
-  },
-  {
-    "package": "vellogd",
-    "url": "https://github.com/yutannihilation/vellogd-r"
   }
 ]
